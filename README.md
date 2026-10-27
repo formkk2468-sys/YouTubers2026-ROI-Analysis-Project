@@ -789,7 +789,7 @@ Toys and Colors delivers the highest net profit in this category due to its exce
 
 # Discovery
 
-When looking at the overall picture with ROI as the main focus, **MrBeast** stands out as the most cost-effective choice. He doesn’t just perform well in one area, but consistently does well across multiple metrics. His videos get high and steady views, and his strong engagement can actually turn into real business results. Because of this, his ROI is not only high but also more stable and less risky compared to other channels.
+Based on the model, Bad Bunny delivers the highest estimated net profit ($24.7M) and net profit relative to campaign cost, driven by the highest average views per video (247.7M). MrBeast ranks lower on this metric (~$12.2M) and would need a justification beyond views, such as consistency or audience fit, which this dataset cannot measure. Results assume a uniform 2% conversion and similar campaign fees, so real sponsorship rates and audience fit should be checked before choosing.
 
 
 
